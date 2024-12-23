@@ -8,7 +8,7 @@ SMART APPLICATION FOR GRADUATION EXAM PREPARATION
 
 ---
 
-# TÓM TẮT (Tối đa 400 từ)
+## TÓM TẮT
 
 Nghiên cứu này giới thiệu một ứng dụng thông minh hỗ trợ quá trình ôn thi tốt nghiệp trung học phổ thông (Gọi tắt là SAGE), với trọng tâm là cá nhân hóa lộ trình học tập và nâng cao hiệu quả ghi nhớ kiến thức.
 
@@ -23,7 +23,7 @@ Dữ liệu hệ thống được thu thập từ các nguồn uy tín như đ�
 
 ---
 
-# GIỚI THIỆU (Tối đa 1 trang A4)
+## GIỚI THIỆU
 
 Kỳ thi tốt nghiệp trung học phổ thông là cột mốc quan trọng định hướng tương lai. Tuy nhiên, nhiều học sinh gặp khó khăn với lượng kiến thức lớn, việc duy trì động lực và đều hành lộ trình học tập hiệu quả.
 
@@ -38,7 +38,7 @@ Mục tiêu của SAGE là tạo hệ sinh thái học tập toàn diện giúp 
 
 ---
 
-# MỤC TIÊU (Viết trong vòng 3 mục tiêu)
+## MỤC TIÊU (Viết trong vòng 3 mục tiêu)
 
 1. **Tạo lộ trình học tập cá nhân hóa**: Phân tích kết quả để đề xuất kế hoạch học hiệu quả.
 2. **Khuyến khích tự học**: Chatbot và mindmap giúp phát triển tư duy hệ thống.
@@ -46,7 +46,7 @@ Mục tiêu của SAGE là tạo hệ sinh thái học tập toàn diện giúp 
 
 ---
 
-# NỘI DUNG VÀ PHƯƠNG PHÁP
+## NỘI DUNG VÀ PHƯƠNG PHÁP
 
 1. **Thu thập và xử lý dữ liệu**
    - **Nguồn dữ liệu**: Đề thi chính thức, ngân hàng câu hỏi, thông tin tuyển sinh.
